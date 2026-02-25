@@ -1,4 +1,4 @@
 # Задание 3: Архитектура
 
-![alt text](image.png)
+![alt text](dop_materials/image.png)
 
