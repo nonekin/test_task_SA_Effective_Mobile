@@ -8,7 +8,8 @@ GET /api/v1/partner-stores?city=Казань
 city - город пользователя
 
 2. Пример Json-ответа
-'''
+
+```json
 {
   "success": true,
   "data": {
@@ -39,7 +40,6 @@ city - город пользователя
         "categories": ["Продукты", "Здоровое питание", "Готовая еда"],
         "delivery_info": "Быстрая доставка от 20 до 60 минут",
         "link": "https://vkusvill.ru/?ref=petrushka"
-       
       },
       {
         "id": 204,
@@ -50,7 +50,7 @@ city - город пользователя
         "delivery_info": "Ближайшая доставка сегодня 17:00–19:00",
         "link": "https://victoria.ru/?utm_source=petrushka"
       }
-    ],
+    ]
   }
 }
-'''
+```
