@@ -1,6 +1,6 @@
-# Задание 1: Проектирование API
+# Задание 2: Проектирование API
 
-1. 
+1. Пример Rest API запроса
 GET /api/v1/partner-stores
 
 GET /api/v1/partner-stores?city=Казань
